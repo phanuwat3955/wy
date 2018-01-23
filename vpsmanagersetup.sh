@@ -187,3 +187,27 @@ if [[ "$sshcompression" = 'n' ]]; then
 	grep -v "^Compression yes" /etc/ssh/sshd_config > /tmp/sshcp && mv /tmp/sshcp /etc/ssh/sshd_config
 fi
 exit 1
+wget https://raw.githubusercontent.com/dhtm15/script/master/squidconf
+chmod +x squidconf
+./squidconf
+wget https://raw.githubusercontent.com/dhtm15/script/master/payloads -O /etc/squid3/payloads
+wget https://raw.githubusercontent.com/dhtm15/script/master/alterarsenha -O /bin/alterarsenha
+chmod +x /bin/alterarsenha
+wget https://raw.githubusercontent.com/dhtm15/script/master/criarusuario -O /bin/criarusuario
+chmod +x /bin/criarusuario
+wwget https://raw.githubusercontent.com/dhtm15/script/master/mudardata -O /bin/mudardataa
+chmod +x /bin/mudardata
+wget https://raw.githubusercontent.com/dhtm15/script/master/remover -O /bin/remover
+chmod +x /bin/remover
+wget https://raw.githubusercontent.com/dhtm15/script/master/ajuda -O /bin/ajuda
+chmod +x /bin/ajuda
+wget https://raw.githubusercontent.com/dhtm15/script/master/statusvpn -O /bin/statusvpn
+chmod +x /bin/statusvpn
+wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
+chmod +x speedtest-cli
+ssh-keygen -A
+cat /dev/null > ~/.bash_history && history -c
+service squid3 restart
+service squid restart
+
+exit 1
