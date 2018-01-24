@@ -1,6 +1,5 @@
 #!/bin/bash
-# 
-# Script Copyright FNS # ========================== # 
+#
 
 # install
 apt-get update -y
