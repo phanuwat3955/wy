@@ -1,0 +1,408 @@
+#EXTM3U
+
+#### กีฬา #######
+
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="http://www.sine.tv/images/icon/TrueSport1.png",TrueSport1
+http://103.212.181.115:1935/tangmo136%20/00_2sport1_480p/playlist.m3u8 
+
+http://103.212.181.115:1935/tangmo136/00_2sport1_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="http://www.sine.tv/images/icon/TrueSport2.png",TrueSport2
+http://103.212.181.115:1935/tangmo136%20/00_2sport2_480p/playlist.m3u8 
+http://103.212.181.115:1935/tangmo136/00_2sport2_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="http://www.sine.tv/images/icon/TrueSport3.png",TrueSport3
+http://103.212.181.115:1935/tangmo136%20/00_2sport3_480p/playlist.m3u8  
+http://103.212.181.115:1935/tangmo136/00_2sport3_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="http://www.sine.tv/images/icon/TrueSport5.png",TrueSport5
+http://103.212.181.115:1935/tangmo136%20/00_2sport5_480p/playlist.m3u8  
+http://103.212.181.115:1935/tangmo136/00_2sport5_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="http://www.sine.tv/images/icon/TrueSport6.png",TrueSport6
+http://103.212.181.115:1935/tangmo136%20/00_2sport6_480p/playlist.m3u8 
+http://103.212.181.115:1935/tangmo136/00_2sport6_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา" tvg-logo="http://www.sine.tv/images/icon/TrueSport7.png",TrueSport7
+http://103.77.116.250/boboapp1/a_truesp7.stream/playlist.m3u8
+http://103.212.181.115:1935/tangmo136/00_2sport7_480p/playlist.m3u8 
+
+
+http://103.212.181.115:1935/tangmo136/00_sport7_480p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/11/PRTV-1-185x278.jpg",prtv
+http://103.212.181.115:1935/tangmo136/0x777_prtv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/11/PRTV-2-185x278.jpg",prtv2
+http://103.212.181.115:1935/tangmo136/0x777_prtv2_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6889.jpg",sporthd1
+http://103.212.181.115:1935/tangmo54/0x777_2sporthd1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6890.jpg",sporthd2
+http://103.212.181.115:1935/tangmo54/0x777_2sporthd2_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6885.jpg",sporthd3
+http://103.212.181.115:1935/tangmo54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="https://www.hd2liveplus.com/uploads/channels/13323.jpg",sporthd4
+http://103.212.181.115:1935/tangmo54/0x777_2sporthd4_720p/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://www.doomovie4k.com/icon/beinsporthd1.png",beinsport1
+http://103.212.181.115:1935/tangmo136/0x777_beinsport1_720p/playlist.m3u8
+
+ 
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://www.doomovie4k.com/icon/beinsporthd2.png",beinsport2
+http://103.212.181.115:1935/tangmo136/0x777_beinsporthd2_720p/playlist.m3u8
+
+
+ 
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://www.doomovie4k.com/icon/beinsporthd3.png",beinsport3
+http://103.212.181.115:1935/tangmo136/0x777_beinsporthd3_720p/playlist.m3u8
+ 
+
+#EXTINF:-1 group-title="กีฬา"tvg-logo="http://www.doomovie4k.com/icon/beinsporthd4.png",beinsport4
+http://103.212.181.115:1935/tangmo136/0x777_beinsporthd4_720p/playlist.m3u8
+
+ 
+
+###### การ์ตูน #######
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/09/cn-185x278.jpg",Cartoon Network(TH) 
+http://103.212.181.115:1935/HD2live-S3/cn.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://fwiptv.org/postor/20130731000233cn.jpg",Cartoon Network(true)
+http://103.77.116.250/boboapp5/cnetwork/playlist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://cms-streaming.truetv.tv/data_img/2011/10/p1a01phl5l1r9joinj541oc518585.png",Cartoon Club
+http://103.77.116.250/boboapp4/pb_52_gangcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://cms-streaming.truetv.tv/data_img/2011/10/p1a01phl5l1r9joinj541oc518585.png",Cartoon Club(1)
+http://103.212.181.115:1935/tangmo53%20/00_gangcartoon_480p/playlist.m3u8 
+
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.sine.tv/images/icon/DisneyXD.png",DisneyXD
+http://103.212.181.115:1935/tangmo41%20/0x222_disneyxd_720p/playlist.m3u8
+http://103.212.181.115:1935/tangmo41%20/0x222_disneyxd_720p/playlist.m3u8
+
+ 
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.sine.tv/images/icon/DiscoveryKids.png",Discovery Kids
+http://103.212.181.115:1935/tangmo41%20/0x777_discoverykids_480p/playlist.m3u8
+
+http://103.212.181.115:1935/tangmo41%20/0x222_discoverykids_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.sine.tv/images/icon/DisneyChannel.png",Disney Channel
+http://103.212.181.115:1935/tangmo136%20/00_disney_480p/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.sine.tv/images/icon/TrueSparkJump.png",True SparkJump
+http://103.212.181.115:1935/tangmo53%20/00_sparkjump_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.sine.tv/images/icon/TrueSparkplay.png",True Sparkplay
+http://103.212.181.115:1935/tangmo53%20/00_spark_480p/playlist.m3u8
+
+http://doballvip.ddns.net:443/doballvip/00_spark_360p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="การ์ตูน" tvg-logo="http://www.sine.tv/images/icon/Boomerang.png",Boomerang
+http://103.212.181.115:1935/tangmo53%20/00_boomerang_480p/playlist.m3u8
+
+
+
+####### ดิจิตอลทีวี #######
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a01pt51u3d0bp1ett180b1uiv5.png",3 Family
+http://103.212.181.115:1935/HD2live-S3/ch3fam.stream/playlist.m3u8
+
+http://doballvip.ddns.net:443/doballvip/00_3fam_360p/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a01pt51u3d0bp1ett180b1uiv5.png",3 Family(สำรอง)
+http://122.155.204.86:9007/bysid/609
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a01ptqr4lhd1jib112s11ln48c5.png",3 HD
+http://103.212.181.115:1935/HD2live-S3/ch3hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://www.sine.tv/images/icon/3hd.png",3 HD(1)
+http://103.212.181.115:1935/tangmo41/0x777_3hd_720p/playlist.m3u8 
+
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a01q0pjk1a3ksladeh1au713lt5.png",3 SD
+http://103.212.181.115:1935/tangmo53/00_3sd_480p/playlist.m3u8
+
+http://191.96.38.234:443/doballvip/00_3sd_360p/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2011/10/chanel-24.png",TV5
+http://103.212.181.115:1935/HD2live-S3/ch5.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/CH7.png",7 HD
+http://103.212.181.115:1935/tangmo136%20/0x777_7hd_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df7c9a4.png",7 HD(480)
+http://103.212.181.115:1935/tangmo136/0x777_7hd_480p/playlist.m3u8 
+
+
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/CH-8-320x230.png",CH 8
+http://103.212.181.115:1935/tangmo53/0x777_tvdigital_ch8_720p/playlist.m3u8
+http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-gmmchannel.png",GMM25
+http://103.212.181.115:1935/tangmo53/00_gmm25_480p/playlist.m3u8 
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/9moct-hd-320x230.png",MCOT1
+http://103.212.181.115:1935/tangmo53/00_mcot1_360p/playlist.m3u8
+http://103.212.181.115:1935/tangmo53/0x777_mcothd_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/09/mcot-185x278.jpg",MCOT HD
+http://103.212.181.115:1935/tangmo41/0x777_mcothd_720p/playlist.m3u8
+http://103.77.116.250/boboapp5/mcothd/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18ocblhps1j0skmm1tfu1dnbvd5.png",MCOT FAMILY
+http://103.212.181.115:1935/tangmo53/00_mcotfam_360p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2011/10/p1a02040ub1ml8cdl5fe13fg1qcl5.png",TPBS HD
+http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/thaipbs.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2011/10/p1a0bjrak2199v17ha17s2gavf5j5.png",NBT 
+http://122.155.204.86:9007/bysid/602
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18kl9tscq105u118b1obg1pv81f945.png",PPTV
+http://122.155.204.86:9007/bysid/618
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18kl9tscq105u118b1obg1pv81f945.png",PPTV HD (2)
+http://103.212.181.115:1935/tangmo41/0x777_tvdigital_pptv_720p/playlist.m3u8
+http://103.77.116.250/boboapp4/36_pptvhd/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a67gb93l1t61q0chdgkbn17id5.png",ONE 31
+http://103.212.181.115:1935/tangmo41/0x777_tvdigital_one_720p/playlist.m3u8
+http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/onehd.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18te0pt50r6019uf76116na1q0e5.png",NOW 26
+http://122.155.204.86:9007/bysid/611
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18kljft996rmmo11ig89e78t5.png",NEW TV
+http://122.155.204.86:9007/bysid/605
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18klaigr71r01u9rvm1rl4jls5.png",THAIRATHTV
+http://122.155.204.86:9007/bysid/614
+
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a01s50ga62q8111mn016s39nf5.png",MONO29
+http://103.212.181.115:1935/tangmo53/00_tvdigital_mono_480p/playlist.m3u8
+
+http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+
+http://103.212.181.115:1935/HD2live-S3/mono.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/true4U-3.jpg",True 4U
+http://103.212.181.115:1935/HD2live-S3/true4u.stream/playlist.m3u8
+
+http://doballvip.ddns.net:443/doballvip/00_true4u_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p1a020sqq7ebh1kc813lai8v34i5.png",Workpoint
+http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://www.sine.tv/images/icon/wp.png",Workpoint(1)
+http://103.212.181.115:1935/tangmo53/00_tvdigital_workpointtv_480p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี"tvg-logo="http://cms-streaming.truetv.tv/data_img/2014/03/p18mu78prn1uqbb4rsc411085m05.png",Amarin HD
+http://122.155.204.86:9007/bysid/616
+
+
+
+#### หนัง ##฿฿####
+หนัง #######
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6927.jpg",KPS
+http://103.212.181.115:1935/tangmo136/00_kbs_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://www.sine.tv/images/icon/ccm_1.png ",Celestial Classic Movies
+http://103.212.181.115:1935/tangmo136/00_ccm_480p/playlist.m3u8 
+
+
+http://103.212.181.115:1935/tangmo136/00_mchannel_480p/playlist.m3u8?key=54075sbobet_livefq623ylvsd 
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://i.ytimg.com/vi/i9dyfq6_-oA/hqdefault_live.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://thaiptv.com/img/nangdung_logo.png",ช่องหนังดัง
+http://symc-cdn04.bkk01.violin.co.th:1935/liveedge/292277190845_600/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/16503.jpg",cinemax
+http://103.212.181.115:1935/tangmo53/0x222_ais_cinemax_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6939.jpg",foxfamth
+http://103.212.181.115:1935/tangmo53/0x222_ais_foxfamth_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/11548.jpg",redbyhbo
+http://103.212.181.115:1935/tangmo53%20/0x222_ais_redbyhbo_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6915.jpg",HBO HD
+http://103.212.181.115:1935/tangmo53/0x222_ais_hbohd_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6923.jpg",HBO Hi TS
+http://103.212.181.115:1935/tangmo53/0x222_ais_hbohit_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/7845.jpg",HBO signature
+http://103.212.181.115:1935/tangmo53/0x222_ais_hbosignature_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6928.jpg",foxactionmovie TH
+http://103.212.181.115:1935/tangmo53/0x222_foxactionmovieth_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6918.jpg",foxpremiumtruly
+http://103.212.181.115:1935/tangmo136/0x777_foxpremiumtruly_720p/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="https://www.hd2liveplus.com/uploads/channels/9303.jpg",fxthailand(1)
+http://128.199.155.69:2200/tangmo54/0x222_fxthailand_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/M.png",M CHANNEL
+http://103.212.181.115:1935/tangmo53/00_mchannel_480p/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/monoplus.png",MONO+ PLUS
+http://103.212.181.115:1935/tangmo41/00_mono_480p/playlist.m3u8  
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://www.sine.tv/images/icon/foxthai.png ",FOX Thai
+http://103.212.181.115:1935/tangmo136%20/00_foxthai_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/trueMovieHitt.png",true Movie Hits
+http://103.212.181.115:1935/tangmo136%20/00_moviehits_360p/playlist.m3u8
+
+
+http://103.212.181.115:1935/tangmo136%20/00_moviehits_360p/playlist.m3u8?key=53819sbobet_livei7gsndbabq 
+
+http://103.212.181.115:1935/tangmo136%20/00_filmasia_480p/playlist.m3u8 
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/trueThaiFilm.png",TRUE THAI FILM
+http://103.212.181.115:1935/tangmo136/00_2thaifilm_360p/playlist.m3u8
+
+http://103.77.116.250/boboapp3/TFLM/playlist.m3u8
+
+
+ 
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/trueFilmAsia.png",TRUE FILM ASIA
+http://103.212.181.115:1935/tangmo136/00_filmasia_480p/playlist.m3u8
+
+http://doballvip.ddns.net:443/doballvip/00_filmasia_360p/playlist.m3u8
+
+ 
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/trueAsianSeries.png",TRUE ASIAN SERIES
+http://103.212.181.115:1935/tangmo136/00_2asianseries_480p/playlist.m3u8
+
+http://103.212.181.115:1935/tangmo136%20/00_2asianseries_360p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/trueSeries.png",TRUE SERIES
+http://103.212.181.115:1935/tangmo136%20/00_2series_360p/playlist.m3u8 
+
+http://103.212.181.115:1935/tangmo136/00_2series_480p/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="หนัง"tvg-logo="http://www.tss-services.com/images/column_1370757454/030_MovieHits.jpg",Inter Movie Hits 
+http://103.77.116.250/boboapp5/interm/playlist.m3u8
+
+
+
+
+#### สารคดี #####
+
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="http://free.tv4uhd.com/assets/images/channel_mini_logo/SRL.png",สำรวจโลก
+http://103.212.181.115:1935/tangmo41/0x777_samrujlok_480p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/09/dmax-185x278.jpg",DMAX
+http://103.77.116.250/boboapp1/a_dmax.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6929.jpg",animalplanet
+http://103.212.181.115:1935/tangmo41/0x777_animalplanet_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.hd2liveplus.com/uploads/channels/35454.jpg",bbcearth
+http://103.212.181.115:1935/tangmo41/0x777_bbcearth_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.hd2liveplus.com/uploads/channels/8009.jpg",dischannel
+http://103.212.181.115:1935/tangmo41/00_dischannel_480p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.hd2liveplus.com/uploads/channels/6912.jpg",discoveryworldhd
+http://103.212.181.115:1935/tangmo41/0x777_discoveryworldhd_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="https://www.hd2liveplus.com/uploads/channels/29411.jpg",dissci
+http://103.212.181.115:1935/tangmo41/0x777_dissci_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="สารคดี"tvg-logo="http://www.doomovie4k.com/wp-content/uploads/2017/09/history-ch-185x278.jpg",history
+http://103.77.116.250/boboapp1/a_history.stream/playlist.m3u8
