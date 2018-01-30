@@ -1,0 +1,505 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH5.png",TV5 HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2tv5_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NBT.png",NBT
+http://iptv-thai.com/ch/SBO/live?channel=00_2nbt_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH3Family.png",3 Family
+http://iptv-thai.com/ch/SBO/live?channel=00_3fam_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MCOTFamily.png",MCOT Family
+http://iptv-thai.com/ch/SBO/live?channel=00_mcotfam_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NEWtv.png",NEW TV
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_newtv_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SpringNewss.png",Spring News
+http://iptv-thai.com/ch/SBO/live?channel=00_springnews_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/BrightTV.png",Bright TV
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_bright_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/VOICE.png",VOICE TV
+http://iptv-thai.com/ch/SBO/live?channel=00_voice_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Nation22.png",Nation TV
+http://iptv-thai.com/ch/SBO/live?channel=00_nation_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Workpoint.png",Workpoint TV
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_workpointtv_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/true4U.png",True4U
+http://iptv-thai.com/ch/SBO/live?channel=00_true4u_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/GMM25.png",Gmm25
+http://iptv-thai.com/ch/SBO/live?channel=00_gmm25_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NOW.png",NOW
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_now_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH8.png",CH8
+http://iptv-thai.com/ch/SBO/live?channel=0x777_tvdigital_ch8_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/3SD.png",3 SD
+http://iptv-thai.com/ch/SBO/live?channel=00_3sd_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MONO29.png",Mono 29
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_mono_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MCOT.png",MCOT HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_mcothd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ONE.png",One
+http://iptv-thai.com/ch/SBO/live?channel=0x777_tvdigital_one_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Thairath.png",Thairath TV
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_thairath_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH3HD.png",3 HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_3hd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH3HD.png",3 HD 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_3hd_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Amarin.png",Amarin TV HD
+http://iptv-thai.com/ch/SBO/live?channel=00_tvdigital_amarin_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH7.png",7 HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_7hd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CH7.png",7 HD 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_7hd_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PPTV.png",PPTV HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_tvdigital_pptv_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PPTV.png",PPTV HD 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_tvdigital_pptv_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truePookpunya.png",True Plook Panya
+http://iptv-thai.com/ch/SBO/live?channel=00_tppy_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Digital TV" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MCOT1.png",MCOT1
+http://iptv-thai.com/ch/SBO/live?channel=00_mcot1_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PremiereTV.png",PRTV 1
+http://iptv-thai.com/ch/SBO/live?channel=0x777_prtv_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PremiereTV.png",PRTV 1 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_prtv_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PremiereTV2.png",PRTV 2
+http://iptv-thai.com/ch/SBO/live?channel=0x777_prtv2_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PremiereTV2.png",PRTV 2 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_prtv2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PremiereTV3.png",PRTV 3
+http://iptv-thai.com/ch/SBO/live?channel=0x777_prtv3_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/PremiereTV3.png",PRTV 3 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_prtv3_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd.png",TrueSport HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd1_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd.png",TrueSport HD 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd1_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd.png",TrueSport HD 3g
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd1_3g&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd2.png",TrueSport HD 2
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd2_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd2.png",TrueSport HD 2 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd3.png",TrueSport HD 3
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd3_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truesporthd3.png",TrueSport HD 3 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd3_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSportHD4.png",TrueSport HD 4
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2sporthd4_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueTennis.png",True Tennis HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_truetennis_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NBATV.png",NBA TV HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_2nba_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Golf.png",Golf Channel Thailand HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_golfchannel_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN1Thai.png",beIN Sports 1
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsport1_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN1Thai.png",beIN Sports 1 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsport1_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN1Thai.png",beIN Sports 1 3g
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsport1_3g&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN2Thai.png",beIN Sports 2
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsporthd2_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN2Thai.png",beIN Sports 2 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsporthd2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN3Thai.png",beIN Sports 3
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsporthd3_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN3Thai.png",beIN Sports 3 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsporthd3_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN4Thai.png",beIN Sports 4
+http://iptv-thai.com/ch/SBO/live?channel=0x777_beinsporthd4_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN5.png",beIN Sports 5
+http://iptv-thai.com/ch/SBO/live?channel=0x222_beinsporthd5_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN6_4.png",beIN Sports 6
+http://iptv-thai.com/ch/SBO/live?channel=0x222_beinsporthd6_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN1Thai.png",beIN Sports 1 (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=00_beinsportsd1_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN2Thai.png",beIN Sports 2 (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=00_beinsportsd2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSport1.png",TrueSport 1
+http://iptv-thai.com/ch/SBO/live?channel=00_2sport1_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSport2.png",TrueSport 2
+http://iptv-thai.com/ch/SBO/live?channel=00_2sport2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/true3.png",TrueSport 3
+http://iptv-thai.com/ch/SBO/live?channel=00_2sport3_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSport5.png",TrueSport 5
+http://iptv-thai.com/ch/SBO/live?channel=00_2sport5_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSport6.png",TrueSport 6
+http://iptv-thai.com/ch/SBO/live?channel=00_2sport6_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSport7.png",TrueSport 7
+http://iptv-thai.com/ch/SBO/live?channel=00_2sport7_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOX1HD.png",FOX Sports HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_foxsport1_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOX2HD.png",FOX Sports 2
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxsport2_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOX3HD.png",FOX Sports 3
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxsport3_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SpeedCH.png",Speed Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_speedchannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TSport.png",T-Sports
+http://iptv-thai.com/ch/SBO/live?channel=0x539_tsports_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport TH" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SMMTV.png",SMMTV
+http://iptv-thai.com/ch/SBO/live?channel=00_smmtv_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/1xBet_1.png",1xbet Channel1
+http://iptv-thai.com/ch/SBO/live?channel=0x444_1xbet_ch1_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/1xBet_2.png",1xbet Channel2
+http://iptv-thai.com/ch/SBO/live?channel=0x444_1xbet_ch2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/1xBet_3.png",1xbet Channel3
+http://iptv-thai.com/ch/SBO/live?channel=0x444_1xbet_ch3_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/1xBet_4.png",1xbet Channel4
+http://iptv-thai.com/ch/SBO/live?channel=0x444_1xbet_ch4_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/1xBet_5.png",1xbet Channel5
+http://iptv-thai.com/ch/SBO/live?channel=0x444_1xbet_ch5_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/1xBet_6.png",1xbet Channel6
+http://iptv-thai.com/ch/SBO/live?channel=0x444_1xbet_ch6_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/cctv5plus.png",CCTV5+
+http://iptv-thai.com/ch/SBO/live?channel=0x222_cctv5plus_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN1Turkey_TV4UHD.png",beIN Sports 1 (Turkey)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_bein1turkey_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN2Turkey_TV4UHD.png",beIN Sports 2 (Turkey)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_bein2turkey_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN_FRANCE_1.png",beIN Sports 1 (France)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_bein1france_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/beIN_FRANCE_2.png",beIN Sports 2 (France)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_bein2france_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MUTV.png",MUTV
+http://iptv-thai.com/ch/SBO/live?channel=0x444_mutv_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/LFCTV.png",LFCTV
+http://iptv-thai.com/ch/SBO/live?channel=0x444_lfctv_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ChelseaTV.png",Chelsea TV
+http://iptv-thai.com/ch/SBO/live?channel=0x444_chelseatv_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSportsHDn.png",Skynet Sport HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_skynetsporthd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSports1.png",SkyNet Sports 1
+http://iptv-thai.com/ch/SBO/live?channel=00_skynetsport1_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSports2.png",SkyNet Sports 2
+http://iptv-thai.com/ch/SBO/live?channel=00_skynetsport2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSports3.png",SkyNet Sports 3
+http://iptv-thai.com/ch/SBO/live?channel=00_skynetsport3_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSports4.png",SkyNet Sports 4
+http://iptv-thai.com/ch/SBO/live?channel=00_skynetsport4_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSports5n.png",SkyNet Sports 5
+http://iptv-thai.com/ch/SBO/live?channel=00_skynetsport5_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNetSports6.png",SkyNet Sports 6
+http://iptv-thai.com/ch/SBO/live?channel=00_skynetsport6_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/EuroSport.png",EuroSport
+http://iptv-thai.com/ch/SBO/live?channel=0x777_eurosport_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/EuroSports1.png",Eurosport 1 (UK)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_eurosportuk1_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/EuroSports2.png",Eurosport 2 (UK)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_eurosportuk2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ESPN.png",ESPN
+http://iptv-thai.com/ch/SBO/live?channel=0x777_espnhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NBAPremium.png",NBA Premium TV (HD)
+http://iptv-thai.com/ch/SBO/live?channel=0x222_nbahd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SonyESPN.png",Sony ESPN
+http://iptv-thai.com/ch/SBO/live?channel=0x222_sonyespn_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SONYSIX.png",Sony SIX
+http://iptv-thai.com/ch/SBO/live?channel=0x222_sonysix_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXSport1.png",FOX Sports 1
+http://iptv-thai.com/ch/SBO/live?channel=0x555_foxsport1en_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXSport2.png",FOX Sports 2
+http://iptv-thai.com/ch/SBO/live?channel=0x555_foxsport2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXSport3.png",FOX Sports 3
+http://iptv-thai.com/ch/SBO/live?channel=0x555_foxsport3_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_main_event.png",Sky Sports Main Event
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportmaineventmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_main_event.png",Sky Sports Main Event (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportmainevent_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_cricket.png",Sky Sports Cricket
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportcricketmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_cricket.png",Sky Sports Cricket (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportcricket_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_action.png",Sky Sports Action
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportactionmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_action.png",Sky Sports Action (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportaction_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_golf.png",Sky Sports Golf
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportgolfmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_golf.png",Sky Sports Golf (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportgolf_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_premier.png",Sky Sports Premiere
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportpremieremanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_premier.png",Sky Sports Premiere (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportpremiere_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkySportsF11.png",Sky Sports F1
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportf1manic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkySportsF11.png",Sky Sports F1 (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportf1_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_football.png",Sky Sports Football
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportfootball_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_arena.png",Sky Sports Arena
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportarena_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_mix.png",Sky Sports Mix
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportmixmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/skysports_news.png",Sky Sports News
+http://iptv-thai.com/ch/SBO/live?channel=0x444_skysportnewsmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/AstroSupersport1.png",Astro Supersport
+http://iptv-thai.com/ch/SBO/live?channel=0x444_astro1my_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSports1HD.png",BT Sport 1 HD
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsport1manic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSports1HDBackUp.png",BT Sport 1 HD (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsport1bmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSports2HD.png",BT Sport 2 HD
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsport2manic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSports2HDBackUp.png",BT Sport 2 HD (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsport2bmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSports3HD.png",BT Sport 3 HD
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsport3manic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSports3HDBackUp.png",BT Sport 3 HD (Backup)
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsport3bmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/btSportESPN.png",BT Sport ESPN
+http://iptv-thai.com/ch/SBO/live?channel=0x444_btsportespnmanic_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/eirSport2.png",eir Sport 2
+http://iptv-thai.com/ch/SBO/live?channel=0x444_eirsport2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/sporttv1.png",SPORT TV 1
+http://iptv-thai.com/ch/SBO/live?channel=0x444_sporttv1_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/sporttv2.png",SPORT TV 2
+http://iptv-thai.com/ch/SBO/live?channel=0x444_sporttv2_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/sporttv3.png",SPORT TV 3
+http://iptv-thai.com/ch/SBO/live?channel=0x444_sporttv3_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/sporttv4.png",SPORT TV 4
+http://iptv-thai.com/ch/SBO/live?channel=0x444_sporttv4_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Sport EN" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/sporttv5.png",SPORT TV 5
+http://iptv-thai.com/ch/SBO/live?channel=0x444_sporttv5_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://lfclive.6te.net/ch/ctb.jpg",CTB Movie
+http://iptv-thai.com/ch/SBO/live?channel=CTB&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/HBO_ENG.png",HBO HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_hbohd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/HBO_TH.png",HBO HD (TH)
+http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_hbohdth_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/hbo_signature.png",HBO Signature
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_hbosignature_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/hbo_family.png",HBO Family
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_hbofam_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/hbo_hits.png",HBO Hits
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_hbohit_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/cinemax.png",CINEMAX
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_cinemax_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/doonee.png",DOONEE
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_doonee_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/zeenung.png",ZEE NUNG
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_zeenung_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXFAMILY_ENG.png",FOX Family Movies HD
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_foxfamen_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXFAMILY_TH.png",FOX Family Movies HD (TH)
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_foxfamth_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXMOVIE_ENG.png",FOX Movies Premium HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_foxpremiumtruly_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXMOVIE_ENG.png",FOX Movies Premium HD 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x777_foxpremiumtruly_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXMOVIE_TH.png",FOX Movies Premium HD (TH)
+http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_foxpremiumth_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXACTION_ENG.png",FOX ACTION MOVIES
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxactionmovieen_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXACTION_TH.png",FOX ACTION MOVIES (TH)
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxactionmovieth_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXACTION_TH.png",FOX ACTION MOVIES (TH) 360p
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxactionmovieth_360p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXCrime.png",FOX CRIME
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxcrimehdthai_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FX.png",FX
+http://iptv-thai.com/ch/SBO/live?channel=0x222_fxthailand_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXThaii.png",FOX Thai
+http://iptv-thai.com/ch/SBO/live?channel=00_foxthai_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Thrill.png",thrill
+http://iptv-thai.com/ch/SBO/live?channel=0x222_thrill_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2014/06/25/fox.jpg",Fox Life
+http://iptv-thai.com/ch/SBO/live?channel=0x222_starworldhdthai_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/WarnerTV.png",Warner TV
+http://iptv-thai.com/ch/SBO/live?channel=0x777_warnertv_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CelestialClassicMovies.png",Celestial Classic Movies
+http://iptv-thai.com/ch/SBO/live?channel=0x222_ccm_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CelestialClassicMovies.png",Celestial Classic Movies (backup)
+http://iptv-thai.com/ch/SBO/live?channel=00_ccm_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueMovieHitt.png",True Movie Hits
+http://iptv-thai.com/ch/SBO/live?channel=00_moviehits_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueThaiFilm.png",True Thai Film
+http://iptv-thai.com/ch/SBO/live?channel=00_2thaifilm_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueFilmAsia.png",True Film Asia
+http://iptv-thai.com/ch/SBO/live?channel=00_filmasia_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueAsianSeries.png",True Asian Series
+http://iptv-thai.com/ch/SBO/live?channel=00_2asianseries_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSeries.png",True Series
+http://iptv-thai.com/ch/SBO/live?channel=00_2series_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/hbo_red_en.png",Red by HBO
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_redbyhbo_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/hbo_red_th.png",Red by HBO (TH)
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_redbyhboth_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/KBSWorld.png",KBS World (SD)
+http://iptv-thai.com/ch/SBO/live?channel=00_kbs_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Movie" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/M.png",M Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_mchannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/DiscoveryHD.png",Discovery HD World
+http://iptv-thai.com/ch/SBO/live?channel=0x777_discoveryworldhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/History.png",History Channel HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_historyhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/H2.png",H2
+http://iptv-thai.com/ch/SBO/live?channel=0x777_h2hd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NatGeo.png",National Geographic HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_natgeographic_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NatGeo.png",AIS National Geographic HD
+#http://iptv-thai.com/ch/SBO/live?channel=0x222_ais_natgeographic_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueWILD.png",True Explore Wild
+http://iptv-thai.com/ch/SBO/live?channel=00_exp1_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueLIFE.png",True Explore Life
+http://iptv-thai.com/ch/SBO/live?channel=00_exp2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueSCI.png",True Explore Sci
+http://iptv-thai.com/ch/SBO/live?channel=00_exp3_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Discovery.png",Discovery Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_dischannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/DiscoverySCI.png",Discovery Science
+http://iptv-thai.com/ch/SBO/live?channel=0x777_dissci_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/EVE.png",EVE
+http://iptv-thai.com/ch/SBO/live?channel=0x222_evehd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/DMAX.png",DMAX
+http://iptv-thai.com/ch/SBO/live?channel=0x777_dmaxhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TLC.png",TLC
+http://iptv-thai.com/ch/SBO/live?channel=00_tlc_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/AnimalPlanet.png",Animal Planet
+http://iptv-thai.com/ch/SBO/live?channel=0x777_animalplanet_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/BBCearth.png",BBC Earth
+http://iptv-thai.com/ch/SBO/live?channel=0x777_bbcearth_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NatWild.png",Nat Geo WILD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_natgeowild_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SME.png",Smart SME Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_smechannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/RAMA.png",RAMA Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_rama_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NatPeople.png",National Geographic People
+http://iptv-thai.com/ch/SBO/live?channel=0x222_natgeopeople_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Fyi.png",fyi
+http://iptv-thai.com/ch/SBO/live?channel=0x222_fyihdthai_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Ci.png",CI HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_cihd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SRL.png",Samrojlok
+http://iptv-thai.com/ch/SBO/live?channel=0x777_samrujlok_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/myscihd.png",MySci
+http://iptv-thai.com/ch/SBO/live?channel=0x222_mysci_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Reality.png",Reality HD
+http://iptv-thai.com/ch/SBO/live?channel=00_real_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/true4U.png",True4U
+http://iptv-thai.com/ch/SBO/live?channel=00_true4u_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/AXN.png",AXN HD
+http://iptv-thai.com/ch/SBO/live?channel=0x777_axnhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FashionTV.png",Fashion TV HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_fashiontvsd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueXZYTE.png",True X-zyte
+http://iptv-thai.com/ch/SBO/live?channel=00_xzyte_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/BBC_LIFESTYLE.png",BBC Life Style
+http://iptv-thai.com/ch/SBO/live?channel=0x222_lifestylehd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Afc.png",Asian Food Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_homeandfood_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Chic.png",CHIC's
+http://iptv-thai.com/ch/SBO/live?channel=00_chicchannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Travel.png",Travel Channel Thailand
+http://iptv-thai.com/ch/SBO/live?channel=00_travelchannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SuperBuntueng.png",Super Bunteung
+http://iptv-thai.com/ch/SBO/live?channel=00_superbunteng_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Miracle.png",Miracle Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_miracle_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TGN22.png",TGN2
+http://iptv-thai.com/ch/SBO/live?channel=00_tgn2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TGN1.png",TGN
+http://iptv-thai.com/ch/SBO/live?channel=00_tgn_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Etv.png",ETV
+http://iptv-thai.com/ch/SBO/live?channel=00_etv_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/JKN.png",JKN Dramax
+http://iptv-thai.com/ch/SBO/live?channel=0x222_jkn_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ariranG.png",arirang
+http://iptv-thai.com/ch/SBO/live?channel=0x222_arirang_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Variety" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/star_chinese channel.png",Star Chinese Channel
+http://iptv-thai.com/ch/SBO/live?channel=0x222_scc_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/truePlay.png",True Spark play
+http://iptv-thai.com/ch/SBO/live?channel=00_spark_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueJump.png",True Spark Jump
+http://iptv-thai.com/ch/SBO/live?channel=00_sparkjump_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/disneyxd.png",Disney XD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_disneyxd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Disney.png",Disney Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_disney_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/DicoveryKid.png",Discovery Kids
+http://iptv-thai.com/ch/SBO/live?channel=0x777_discoverykids_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CartoonClub.png",Cartoon Club Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_gangcartoon_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/GangCartoon.png",Gang Cartoon
+http://iptv-thai.com/ch/SBO/live?channel=master&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/BabyTV.png",Baby TV HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_babytvhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Boomerang.png",Boomerang
+http://iptv-thai.com/ch/SBO/live?channel=00_boomerang_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NickJr.png",NiCK Jr.
+http://iptv-thai.com/ch/SBO/live?channel=0x222_nickjrthai_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ToonamiTV4UHD.png",Toonami
+http://iptv-thai.com/ch/SBO/live?channel=0x222_toonami_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/trueMusic.png",True Music
+http://iptv-thai.com/ch/SBO/live?channel=00_2music_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ThaiThai.png",ThaiThai
+http://iptv-thai.com/ch/SBO/live?channel=00_thaithai_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MTV.png",MTV Asia
+http://iptv-thai.com/ch/SBO/live?channel=0x222_mtvasia_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Very.png",Very TV
+http://iptv-thai.com/ch/SBO/live?channel=00_very_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MTVLive.png",MTV Live HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_mtvlivehd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/MTVChina.png",MTV China
+http://iptv-thai.com/ch/SBO/live?channel=0x222_mtvchina_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ChannelV.png",Channel V Thailand
+http://iptv-thai.com/ch/SBO/live?channel=0x222_chvinter_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="Music" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TraceUrban.png",Trace Urban
+http://iptv-thai.com/ch/SBO/live?channel=0x222_traceurbanhd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TNN24.png",TNN24
+http://iptv-thai.com/ch/SBO/live?channel=00_tnn24_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/Money.png",Money Channel
+http://iptv-thai.com/ch/SBO/live?channel=00_moneychannel_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/TNN2.png",TNN2
+http://iptv-thai.com/ch/SBO/live?channel=00_tnn2_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/CCTV.png",CCTV4
+http://iptv-thai.com/ch/SBO/live?channel=00_cctv_480p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/DW.png",DW (Deutsch)
+http://iptv-thai.com/ch/SBO/live?channel=0x222_dwchannel_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/NHKWorld.png",NHK World TV
+http://iptv-thai.com/ch/SBO/live?channel=0x222_nhkworldtv_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/France24.png",FRANCE 24
+http://iptv-thai.com/ch/SBO/live?channel=0x222_france24_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/EuroNews.png",euronews
+http://iptv-thai.com/ch/SBO/live?channel=0x222_euronews_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/ChannelNewsAsia.png",Channel NewsAsia
+http://iptv-thai.com/ch/SBO/live?channel=0x222_newsasia_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/SkyNews.png",Sky News HD
+http://iptv-thai.com/ch/SBO/live?channel=0x222_skynewshd_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+#EXTINF:-1 group-title="News" tvg-logo="http://tv4uhd.com/assets/images/channel_mini_logo/FOXNews.png",FOX News
+http://iptv-thai.com/ch/SBO/live?channel=0x222_foxnewsthai_720p&user=CyberNetVIP|User-Agent=iPhone&Referer=http://www.tdedball69.com
+
+
+
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://www.gclub-hd.com/poster-img.php?id=f645469dd266d47fa57a066d35bd6e19.jpg",King Arthur Legend of The Sword (2017) คิง อาร์เธอร์ ตำนานแห่งดาบราชันย์
+http://iptv-thai.com/movie/live?mid=20581&user=CyberNetVIP|User-Agent=iPhone
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://www.gclub-hd.com/poster-img.php?id=81e33fadd6f7a1a7f1decd8ab5f3a08a.jpg",เพื่อน..ที่ระลึก:The Promise 2017
+http://iptv-thai.com/movie/live?mid=25398&user=CyberNetVIP|User-Agent=iPhone
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://www.gclub-hd.com/poster-img.php?id=403e06a5e845bed81a3428670a684939.jpg",Maze Runner 3: The Death Cure 2018:เมซ รันเนอร์ ไข้มรณะ
+http://iptv-thai.com/movie/live?mid=26470&user=CyberNetVIP|User-Agent=iPhone
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://www.gclub-hd.com/poster-img.php?id=af9df909ab949c85796054666cacf8b8.jpg",Geostorm:เมฆาถล่มโลก
+http://iptv-thai.com/movie/live?mid=26449&user=CyberNetVIP|User-Agent=iPhone
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://www.gclub-hd.com/poster-img.php?id=4a212a3f4e1406e8485c29f1f94c5260.jpg",นายไข่เจียว เสี่ยวตอร์ปิโด
+http://iptv-thai.com/movie/live?mid=26378&user=CyberNetVIP|User-Agent=iPhone
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://i0.wp.com/www.mastermovie-hd.com/wp-content/uploads/2017/08/Thor-Ragnarok-2017-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2.jpg",Thor Ragnarok ศึกอวสานเทพเจ้า
+http://iheartvdo7.better-than.tv:8081/vod2/_definst_/hhd4/thor.ragnarok.2017.thairong.mp4/chunklist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://www.mastermovie-hd.com/wp-content/uploads/2017/12/The-Foreigner-2017-2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.jpg",The Foreigner 2 โคตรพยัคฆ์ผู้ยิ่งใหญ่
+http://plavps.dyndns.org:8081/vod/_definst_/videos3/MOVIE/1-24-61/The.Foreigner.2017/chunklist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://i.imgur.com/d5BBCJe.jpg",Gintama (2017) กินทามะ ซามูไร เพี้ยนสารพัด
+http://plavps.dyndns.org:8081/vod/_definst_/videos3/MOVIE/1-24-61/Gintama_2017/chunklist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://www.vojkud.com/wp-content/uploads/2018/01/12-Strong-2018-12-%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99.jpg",12 Strong: 12 ตายไม่เป็น
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Zoom_12%20Strong.TH.MP4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://movie.mthai.com/app/uploads/2017/12/%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-Bleeding-Steel-6.jpg",Bleeding Steel: โคตรใหญ่ฟัดเหล็ก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Bleeding%20Steel.TH.MP4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://www.moviehd-free.com/wp-content/uploads/2017/09/What-Happened-to-Monday-2017-7-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-7-%E0%B8%95%E0%B8%B2%E0%B8%A2.jpg",What Happened to Monday: 7 เป็น 7 ตาย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_What.Happened.to.Monday.2017.TH.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://atkmagazine.com/wp-content/uploads/2015/08/Memories-of-the-Sword-poster.jpg",Memories of the Sword (2015) ศึกจอมดาบชิงบัลลังก์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Memories.of.the.Sword.2015.TH.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/dunkirk_5.jpg",Dunkirk: ดันเคิร์ก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_dunkirk.2017.TH.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://www.majorcineplex.com/uploads/content/images/21231188_10154928554121094_489895611528432233_n%289%29.jpg",It (2017): อิท โผล่จากนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_IT.2017.TH.mp4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="http://i.bug-a-boo.tv/images/399cd89c3dd5950fcfabce066b62f3a2/poster_tokyo_ghoul_thai.jpg",Tokyo Ghoul: คนพันธุ์กูล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Tokyo%20Ghoul.TH.MP4/playlist.m3u8
+#EXTINF:-1 group-title="Movie Update" tvg-logo="https://www.vojkud.com/wp-content/uploads/2017/12/Jumanji-Welcome-to-the-Jungle-2017-%E0%B8%88%E0%B8%B9%E0%B9%81%E0%B8%A1%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C.jpg",Jumanji Welcome to the Jungle (2017) เกมดูดโลก บุกป่ามหัศจรรย์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Zoom_Jumanji%20Welcome%20to%20the%20Jungle.TH.MP4/playlist.m3u8
+
