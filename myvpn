@@ -1,0 +1,12 @@
+# replace the bracket paramters with the host name of the VPN server and VPN user
+remotename myvpn
+linkname myvpn
+ipparam myvpn
+pty "pptp ไอพี --nolaunchpppd --loglevel 0"
+lock
+nodeflate
+name ชื่อ 
+usepeerdns
+require-mppe
+noauth
+require-mppe-128
