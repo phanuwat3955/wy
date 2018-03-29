@@ -1,0 +1,13 @@
+name pptpd
+refuse-pap
+refuse-chap
+refuse-mschap
+require-mschap-v2
+require-mppe-128
+proxyarp
+nodefaultroute
+lock
+nobsdcomp
+noipx ## you don’t need IPX
+mtu 1490 ## may help your linux client from disconnecting
+mru 1490 ## may help your linux client from disconnecting
