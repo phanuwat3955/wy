@@ -1,0 +1,11 @@
+lock
+noauth
+refuse-pap
+refuse-eap
+refuse-chap
+refuse-mschap
+nobsdcomp
+nodeflate
+name ชื่อ
+require-mppe-128
+ipparam myvpn
