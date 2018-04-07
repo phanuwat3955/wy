@@ -1,3 +1,10 @@
+http_access allow url1
+http_access allow url2
+http_access allow url3
+http_access allow payload
+
+http_access deny all
+visible_hostname bank squid ไอ้เหี้ย
 forwarded_for off
 http_port 3128
 http_port 8000
