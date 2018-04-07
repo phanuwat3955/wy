@@ -148,27 +148,27 @@ then
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
 	echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/addhost.sh -O /bin/addhost
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/alterarsenha.sh -O /bin/alterarsenha
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/alterarsenha.sh -O /bin/alterarsenha
 	chmod +x /bin/alterarsenha
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/criarusuario2.sh -O /bin/criarusuario
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/criarusuario2.sh -O /bin/criarusuario
 	chmod +x /bin/criarusuario
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/delhost.sh -O /bin/delhost
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/delhost.sh -O /bin/delhost
 	chmod +x /bin/delhost
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/expcleaner2.sh -O /bin/expcleaner
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/mudardata.sh -O /bin/mudardata
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/mudardata.sh -O /bin/mudardata
 	chmod +x /bin/mudardata
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/remover.sh -O /bin/remover
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/remover.sh -O /bin/remover
 	chmod +x /bin/remover
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/sshlimiter2.sh -O /bin/sshlimiter
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/sshlimiter2.sh -O /bin/sshlimiter
 	chmod +x /bin/sshlimiter
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/alterarlimite.sh -O /bin/alterarlimite
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/alterarlimite.sh -O /bin/alterarlimite
 	chmod +x /bin/alterarlimite
 	wget http://phreaker56.obex.pw/vpsmanager/scripts/ajuda.sh -O /bin/ajuda
 	chmod +x /bin/ajuda
-	wget http://phreaker56.obex.pw/vpsmanager/scripts/sshmonitor2.sh -O /bin/sshmonitor
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/sshmonitor2.sh -O /bin/sshmonitor
 	chmod +x /bin/sshmonitor
 	if [ ! -f "/etc/init.d/squid3" ]
 	then
