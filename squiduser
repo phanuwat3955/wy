@@ -1,18 +1,8 @@
- 
-http_access allow url3
-http_access deny all
-
-http_port 3128
-http_port 8000
-http_port 8080
-http_port 80
-
-
 forwarded_for off
-http_port 81
-http_port 8000
 http_port 3128
+http_port 8000
 http_port 8080
+http_port 81
 request_header_access Allow allow all
 request_header_access Authorization allow all
 request_header_access WWW-Authenticate allow all
