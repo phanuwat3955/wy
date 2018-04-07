@@ -1,7 +1,11 @@
-auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/squid_passwd
-auth_param basic realm proxy
-acl authenticated proxy_auth REQUIRED
-http_access allow authenticated
+ 
+http_access allow url3
+http_access deny all
+
+http_port 3128
+http_port 8000
+http_port 8080
+http_port 80
 
 
 forwarded_for off
