@@ -68,42 +68,42 @@ tput setaf 7 ; tput setab 4 ; tput bold ; echo "" ; echo "Aguarde a configuraÃ§Ã
 sleep 3
 apt-get update -y
 apt-get upgrade -y
-rm /bin/criarusuario /bin/expcleaner /bin/sshlimiter /bin/addhost /bin/listar /bin/sshmonitor /bin/ajuda > /dev/null
+rm /bin/criarusuario /hin/statusvpn /bin/expcleaner /bin/sshlimiter /bin/addhost /bin/listar /bin/sshmonitor /bin/ajuda > /dev/null
 rm /root/ExpCleaner.sh /root/CriarUsuario.sh /root/sshlimiter.sh > /dev/null
 apt-get install squid3 bc screen nano unzip dos2unix wget -y
 killall apache2
 apt-get purge apache2 -y
 if [ -d "/etc/squid3/" ]
 then
-wget http://aacplusbrasil.com.br/source/ssh/GRT11111/squid1.text -O /tmp/sqd1
-	echo "acl url3 dstdomain -i $ipdovps" > /tmp/sqd2
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/squid2.text -O /tmp/sqd3
+        wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /tmp/sqd1
+        "echo 'acl ip dstdomain '$ipdovps" > /tmp/sqd2
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid2.text -O /tmp/sqd3
 	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid3/squid.conf
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/payload.text -O /etc/squid3/payload.txt
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/payload.text -O /etc/squid3/payload.txt
 	echo " " >> /etc/squid3/payload.txt
-	grep -v "^Port 443" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
-	echo "Port 443" >> /etc/ssh/sshd_config
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/addhost.sh -O /bin/addhost
+	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
+	echo "Port 143" >> /etc/ssh/sshd_config
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/alterarsenha.sh -O /bin/alterarsenha
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/alterarsenha -O /bin/alterarsenha
 	chmod +x /bin/alterarsenha
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/criarusuario2.sh -O /bin/criarusuario
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/criarusuario2.sh -O /bin/criarusuario
 	chmod +x /bin/criarusuario
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/delhost.sh -O /bin/delhost
+	https://raw.githubusercontent.com/Panuwatbank/user-bank/master/delhost.sh -O /bin/delhost
 	chmod +x /bin/delhost
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/expcleaner2.sh -O /bin/expcleaner
+	wget https://raw.githubusercontent.com/Panuwatbank/user-bank/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/mudardata.sh -O /bin/mudardata
+	wget https://raw.githubusercontent.com/Panuwatbank/user-bank/master/mudardata.sh -O /bin/mudardata
 	chmod +x /bin/mudardata
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/remover.sh -O /bin/remover
+	wget https://raw.githubusercontent.com/Panuwatbank/user-bank/master/remover.sh -O /bin/remover
 	chmod +x /bin/remover
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/sshlimiter2.sh -O /bin/sshlimiter
+	wget https://raw.githubusercontent.com/Panuwatbank/user-bank/master/sshlimiter2.sh -O /bin/sshlimiter
 	chmod +x /bin/sshlimiter
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/alterarlimite.sh -O /bin/alterarlimite
+	wget http://raw.githubusercontent.com/Panuwatbank/user-bank/master/alterarlimite.sh -O /bin/alterarlimite
 	chmod +x /bin/alterarlimite
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/ajuda.sh -O /bin/ajuda
+	wget http://raw.githubusercontent.com/Panuwatbank/user-bank/master/ajuda.sh -O /bin/ajuda
 	chmod +x /bin/ajuda
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/sshmonitor2.sh -O /bin/sshmonitor
+	wget http://raw.githubusercontent.com/Panuwatbank/user-bank/master/sshmonitor2.sh -O /bin/sshmonitor
 	chmod +x /bin/sshmonitor
 	if [ ! -f "/etc/init.d/squid3" ]
 	then
@@ -120,35 +120,35 @@ wget http://aacplusbrasil.com.br/source/ssh/GRT11111/squid1.text -O /tmp/sqd1
 fi
 if [ -d "/etc/squid/" ]
 then
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/squid1.text -O /tmp/sqd1
-	echo "acl url3 dstdomain -i $ipdovps" > /tmp/sqd2
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/squid.text -O /tmp/sqd3
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /tmp/sqd1
+	echo "acl ip dstdomain $ipdovps" > /tmp/sqd2
+	wget http://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
 	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/payload.text -O /etc/squid/payload.txt
+	wget raw.githubusercontent.com/Panuwatbank/ssh/master/payload.text -O /etc/squid/payload.txt
 	echo " " >> /etc/squid/payload.txt
-	grep -v "^Port 443" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
-	echo "Port 443" >> /etc/ssh/sshd_config
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/2/addhost.sh -O /bin/addhost
+	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
+	echo "Port 143" >> /etc/ssh/sshd_config
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/web/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/alterarsenha.sh -O /bin/alterarsenha
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/alterarsenha.sh -O /bin/alterarsenha
 	chmod +x /bin/alterarsenha
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/criarusuario2.sh -O /bin/criarusuario
+	wget https://raw.githubusercontent.com/Panuwatbank/wy/master/criarusuario -O /bin/criarusuario
 	chmod +x /bin/criarusuario
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/2/delhost.sh -O /bin/delhost
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/web/delhost.sh -O /bin/delhost
 	chmod +x /bin/delhost
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/expcleaner2.sh -O /bin/expcleaner
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
 	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/mudardata.sh -O /bin/mudardata
 	chmod +x /bin/mudardata
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/remover.sh -O /bin/remover
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/remover.sh -O /bin/remover
 	chmod +x /bin/remover
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/sshlimiter2.sh -O /bin/sshlimiter
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/sshlimiter2.sh -O /bin/sshlimiter
 	chmod +x /bin/sshlimiter
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/alterarlimite.sh -O /bin/alterarlimite
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/alterarlimite.sh -O /bin/alterarlimite
 	chmod +x /bin/alterarlimite
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/ajuda.sh -O /bin/ajuda
+	wget https://raw.githubusercontent.com/Panuwatbank/wy/master/ajuda.sh -O /bin/ajuda
 	chmod +x /bin/ajuda
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/sshmonitor2.sh -O /bin/sshmonitor
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/sshmonitor2.sh -O /bin/sshmonitor
 	chmod +x /bin/sshmonitor
 	if [ ! -f "/etc/init.d/squid" ]
 	then
