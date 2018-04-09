@@ -121,7 +121,7 @@ fi
 if [ -d "/etc/squid/" ]
 then
 	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /tmp/sqd1
-        "echo acl SSH dst $ipdovps" - "$ipdovps"/255.255.255.255" > /tmp/sqd2
+        "echo acl SSH dst $ipdovps-$ipdovps"/255.255.255.255" > /tmp/sqd2
 	wget http://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
 	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
 	wget raw.githubusercontent.com/Panuwatbank/ssh/master/payload.text -O /etc/squid/payload.txt
