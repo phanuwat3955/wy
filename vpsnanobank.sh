@@ -75,13 +75,12 @@ killall apache2
 apt-get purge apache2 -y
 if [ -d "/etc/squid3/" ]
 then
-        wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /tmp/sqd1
-        echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid2.text -O /tmp/sqd3
-	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid3/squid.conf
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/payload.text -O /etc/squid3/payload.txt
-	echo " " >> /etc/squid3/payload.txt
-	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
+        echo 'SQUID DEBIAN'
+        rm -rf /etc/squid3/squid.conf
+        touch /etc/squid3/squid.conf
+        echo 'acl ip dstdomain '$IP > /etc/squid3/squid.conf
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /etc/squid3/squid.conf
+        grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
@@ -120,13 +119,12 @@ then
 fi
 if [ -d "/etc/squid/" ]
 then
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /tmp/sqd1
-        echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
-	wget http://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
-	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
-	wget raw.githubusercontent.com/Panuwatbank/ssh/master/payload.text -O /etc/squid/payload.txt
-	echo " " >> /etc/squid/payload.txt
-	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
+	echo 'SQUID UBUNTU'
+        rm -rf /etc/squid/squid.conf
+        touch /etc/squid/squid.conf
+	echo 'acl ip dstdomain '$IP > /etc/squid/squid.conf
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /etc/squid/squid.conf
+        grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/web/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
