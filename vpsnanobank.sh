@@ -78,9 +78,10 @@ then
         echo 'SQUID DEBIAN'
         rm -rf /etc/squid3/squid.conf
         touch /etc/squid3/squid.conf
-        echo 'acl ip dstdomain '$IP > /tmp/sqd1
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text -O /tmp/sqd2
-        cat /tmp/sqd1 /tmp/sqd2 > /etc/squid3/squid.conf
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text > /tmp/sqd1
+        echo 'acl ip dstdomain '$IP > /tmp/sqd2
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
+        cat /tmp/sqd1 /tmp/sqd2 /tmp/sq3 > /etc/squid3/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/addhost.sh -O /bin/addhost
@@ -123,9 +124,10 @@ then
 	echo 'SQUID UBUNTU'
         rm -rf /etc/squid/squid.conf
         touch /etc/squid/squid.conf
-	echo 'acl ip dstdomain '$IP >/tmp/sqd1 
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd1 
-        cat /tmp/sqd1 /tmp/sqd2 > /etc/squid/squid.conf
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text > /tmp/sqd1
+	echo 'acl ip dstdomain '$IP >/tmp/sqd2
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
+        cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/web/addhost.sh -O /bin/addhost
