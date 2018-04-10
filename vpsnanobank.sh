@@ -126,7 +126,7 @@ then
         touch /etc/squid/squid.conf
 	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text > /tmp/sqd1
 	echo 'acl ip dstdomain '$IP >/tmp/sqd2
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
+	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text > /tmp/sqd3
         cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
