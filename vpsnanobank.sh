@@ -202,7 +202,7 @@ rm squidconf
 	chmod +x /bin/delhost
 	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
-	wget http://aacplusbrasil.com.br/source/ssh/GRT11111/314519/mudardata.sh -O /bin/mudardata
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/mudardata.sh -O /bin/mudardata
 	chmod +x /bin/mudardata
 	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/remover.sh -O /bin/remover
 	chmod +x /bin/remover
