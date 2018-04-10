@@ -76,12 +76,41 @@ apt-get purge apache2 -y
 if [ -d "/etc/squid3/" ]
 then
         echo 'SQUID DEBIAN'
-        rm -rf /etc/squid3/squid.conf
-        touch /etc/squid3/squid.conf
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text > /tmp/sqd1
-        echo 'acl ip dstdomain '$IP > /tmp/sqd2
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text -O /tmp/sqd3
-        cat /tmp/sqd1 /tmp/sqd2 /tmp/sq3 > /etc/squid3/squid.conf
+rm -rf /etc/squid3/squid.conf
+touch /etc/squid3/squid.conf
+echo 'acl ip dstdomain '$IP > /etc/squid3/squid.conf
+echo 'acl payload dstdomain -i "/etc/payloads"
+acl local dstdomain localhost
+acl iplocal dstdomain 127.0.0.1
+acl netflix dstdomain .netflix.
+acl redelocal src 192.168.0.1-192.168.0.254
+acl vpn src 10.8.0.1-10.8.0.254
+acl videoprime dstdomain .videoprime.
+acl ip4 dstdomain 127.0.0.2
+acl oi dstdomain 200.222.108.241
+
+http_access allow ip
+http_access allow payload
+http_access allow local
+http_access allow iplocal
+http_access allow redelocal
+http_access allow vpn
+http_access allow ip4
+http_access allow oi
+http_access allow netflix
+http_access allow videoprime
+
+http_port 80
+http_port 8080
+http_port 8799
+http_port 3128
+
+visible_hostname RNEOXBRASIL
+
+http_access deny all
+
+via off
+forwarded_for off' >> /etc/squid3/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/addhost.sh -O /bin/addhost
@@ -122,12 +151,42 @@ fi
 if [ -d "/etc/squid/" ]
 then
 	echo 'SQUID UBUNTU'
-        rm -rf /etc/squid/squid.conf
-        touch /etc/squid/squid.conf
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid1.text > /tmp/sqd1
-	echo 'acl ip dstdomain '$IP >/tmp/sqd2
-	wget https://raw.githubusercontent.com/Panuwatbank/ssh/master/squid.text > /tmp/sqd3
-        cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
+rm -rf /etc/squid/squid.conf
+touch /etc/squid/squid.conf
+echo 'acl ip dstdomain '$IP > /etc/squid/squid.conf
+echo 'acl payload dstdomain -i "/etc/payloads"
+acl local dstdomain localhost
+acl iplocal dstdomain 127.0.0.1
+acl netflix dstdomain .netflix.
+acl redelocal src 192.168.0.1-192.168.0.254
+acl vpn src 10.8.0.1-10.8.0.254
+acl videoprime dstdomain .videoprime.
+acl ip4 dstdomain 127.0.0.2
+acl oi dstdomain 200.222.108.241
+
+http_access allow ip
+http_access allow payload
+http_access allow local
+http_access allow iplocal
+http_access allow redelocal
+http_access allow vpn
+http_access allow ip4
+http_access allow oi
+http_access allow netflix
+http_access allow videoprime
+
+http_port 80
+http_port 8080
+http_port 8000
+http_port 3128
+
+visible_hostname เย็ดเป็ด
+
+http_access deny all
+
+via off
+forwarded_for off' >> /etc/squid/squid.conf
+rm squidconf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/web/addhost.sh -O /bin/addhost
