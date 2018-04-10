@@ -73,6 +73,9 @@ rm /root/ExpCleaner.sh /root/CriarUsuario.sh /root/sshlimiter.sh > /dev/null
 apt-get install squid3 bc screen nano unzip dos2unix wget -y
 killall apache2
 apt-get purge apache2 -y
+if [ -f "/usr/sbin/ufw" ] ; then
+	ufw allow 143/tcp ; ufw allow 80/tcp ; ufw allow 3128/tcp ; ufw allow 8000/tcp ; ufw allow 8080/tcp
+fi
 if [ -d "/etc/squid3/" ]
 then
         echo 'SQUID DEBIAN'
@@ -102,7 +105,7 @@ http_access allow videoprime
 
 http_port 80
 http_port 8080
-http_port 8799
+http_port 8000
 http_port 3128
 
 visible_hostname RNEOXBRASIL
@@ -231,5 +234,13 @@ tput setaf 7 ; tput setab 4 ; tput bold ; echo "Scripts para gerenciamento de us
 tput setaf 7 ; tput setab 4 ; tput bold ; echo "Leia a documentação para evitar dúvidas e problemas!" ; tput sgr0
 tput setaf 7 ; tput setab 4 ; tput bold ; echo "Para ver os comandos disponíveis use o comando: ajuda" ; tput sgr0
 echo ""
-awk -F : '$3 >= 500 { print $1 " 1" }' /etc/passwd | grep -v '^nobody' > /root/usuarios.db
+if [[ "$optiondb" = '2' ]]; then
+	awk -F : '$3 >= 500 { print $1 " 1" }' /etc/passwd | grep -v '^nobody' > /root/usuarios.db
+fi
+if [[ "$sshcompression" = 's' ]]; then
+	grep -v "^Compression yes" /etc/ssh/sshd_config > /tmp/sshcp && mv /tmp/sshcp /etc/ssh/sshd_config
+	echo "Compression yes" >> /etc/ssh/sshd_config
+fi
+if [[ "$sshcompression" = 'n' ]]; then
+	grep -v "^Compression yes" /etc/ssh/sshd_config > /tmp/sshcp && mv /tmp/sshcp /etc/ssh/sshd_config
 exit 1
