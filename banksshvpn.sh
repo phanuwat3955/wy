@@ -124,7 +124,7 @@ if [ -d "/etc/squid/" ]
 then
 	wget http://raw.githubusercontent.com/Panuwatbank/wy/master/squid.txt -O /tmp/sqd1
 	echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
-	cat /tmp/sqd2 /tmp/sqd1 > /etc/squid3/squid.conf
+	cat /tmp/sqd2 /tmp/sqd1 > /etc/squid/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
