@@ -78,12 +78,9 @@ if [ -f "/usr/sbin/ufw" ] ; then
 fi
 if [ -d "/etc/squid3/" ]
 then
-	wget http://phreaker56.xyz/vpsmanager/squid1.txt -O /tmp/sqd1
-	echo "acl url3 dstdomain -i $ipdovps" > /tmp/sqd2
-	wget http://phreaker56.xyz/vpsmanager/squid2.txt -O /tmp/sqd3
-	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid3/squid.conf
-	wget http://phreaker56.xyz/vpsmanager/payload.txt -O /etc/squid3/payload.txt
-	echo " " >> /etc/squid3/payload.txt
+	wget http://raw.githubusercontent.com/Panuwatbank/wy/master/squid.txt -O /tmp/sqd1
+	echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
+	cat /tmp/sqd2 /tmp/sqd1 > /etc/squid3/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
@@ -125,12 +122,9 @@ then
 fi
 if [ -d "/etc/squid/" ]
 then
-	wget http://phreaker56.xyz/vpsmanager/squid1.txt -O /tmp/sqd1
-	echo "acl url3 dstdomain -i $ipdovps" > /tmp/sqd2
-	wget http://phreaker56.xyz/vpsmanager/squid.txt -O /tmp/sqd3
-	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
-	wget http://phreaker56.xyz/vpsmanager/payload.txt -O /etc/squid/payload.txt
-	echo " " >> /etc/squid/payload.txt
+	wget http://raw.githubusercontent.com/Panuwatbank/wy/master/squid.txt -O /tmp/sqd1
+	echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
+	cat /tmp/sqd2 /tmp/sqd1 > /etc/squid3/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
