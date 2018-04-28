@@ -1,8 +1,7 @@
-
 #!/bin/bash
 tput setaf 7 ; tput setab 4 ; tput bold ; printf '%35s%s%-20s\n' "VPS Manager 2.0.1" ; tput sgr0
 tput setaf 3 ; tput bold ; echo "" ; echo "Este script irá:" ; echo ""
-echo "● Instalar e configurar o proxy squid nas portas 80, 3128, 8080 e 8000" ; echo "  para permitir conexões SSH para este servidor"
+echo "● Instalar e configurar o proxy squid nas portas 81, 3128, 8080 e 8000" ; echo "  para permitir conexões SSH para este servidor"
 echo "● Configurar o OpenSSH para rodar nas portas 22 e 143"
 echo "● Instalar um conjunto de scripts como comandos do sistema para o gerenciamento de usuários" ; tput sgr0
 echo ""
