@@ -74,38 +74,45 @@ apt-get install squid3 bc screen nano unzip dos2unix wget -y
 killall apache2
 apt-get purge apache2 -y
 if [ -f "/usr/sbin/ufw" ] ; then
-	ufw allow 143/tcp ; ufw allow 80/tcp ; ufw allow 3128/tcp ; ufw allow 8000/tcp ; ufw allow 8080/tcp
+	ufw allow 143/tcp ; ufw allow 81/tcp ; ufw allow 3128/tcp ; ufw allow 8000/tcp ; ufw allow 8080/tcp
 fi
 if [ -d "/etc/squid3/" ]
 then
-	wget http://raw.githubusercontent.com/Panuwatbank/wy/master/squid.txt -O /tmp/sqd1
-	echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
-	cat /tmp/sqd2 /tmp/sqd1 > /etc/squid3/squid.conf
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/เว็บ/SquiD1.txt -O /tmp/sqd1
+	echo "acl url4 dstdomain -i $ipdovps" > /tmp/sqd2
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/เว็บ/SquiD2.txt -O /tmp/sqd3
+	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid3/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
 	echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
-	wget http://phreaker56.xyz/vpsmanager/scripts/addhost.sh -O /bin/addhost
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/payload.txt -O /etc/squid3/payload.txt
+	echo " " >> /etc/squid3/payload.txt
+	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
+	echo "Port 143" >> /etc/ssh/sshd_config
+	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
+	echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
+        wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
-	wget http://phreaker56.xyz/vpsmanager/scripts/alterarsenha.sh -O /bin/alterarsenha
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/alterarsenha.sh -O /bin/alterarsenha
 	chmod +x /bin/alterarsenha
-	wget http://phreaker56.xyz/vpsmanager/scripts/criarusuario2.sh -O /bin/criarusuario
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/criarusuario2.sh -O /bin/criarusuario
 	chmod +x /bin/criarusuario
-	wget http://phreaker56.xyz/vpsmanager/scripts/delhost.sh -O /bin/delhost
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/delhost.sh -O /bin/delhost
 	chmod +x /bin/delhost
-	wget http://phreaker56.xyz/vpsmanager/scripts/expcleaner2.sh -O /bin/expcleaner
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
-	wget http://phreaker56.xyz/vpsmanager/scripts/mudardata.sh -O /bin/mudardata
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/mudardata.sh -O /bin/mudardata
 	chmod +x /bin/mudardata
-	wget http://phreaker56.xyz/vpsmanager/scripts/remover.sh -O /bin/remover
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/remover.sh -O /bin/remover
 	chmod +x /bin/remover
-	wget http://phreaker56.xyz/vpsmanager/scripts/sshlimiter2.sh -O /bin/sshlimiter
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/sshlimiter2.sh -O /bin/sshlimiter
 	chmod +x /bin/sshlimiter
-	wget http://phreaker56.xyz/vpsmanager/scripts/alterarlimite.sh -O /bin/alterarlimite
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/alterarlimite.sh -O /bin/alterarlimite
 	chmod +x /bin/alterarlimite
-	wget http://phreaker56.xyz/vpsmanager/scripts/ajuda.sh -O /bin/ajuda
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/ajuda.sh -O /bin/ajuda
 	chmod +x /bin/ajuda
-	wget http://phreaker56.xyz/vpsmanager/scripts/sshmonitor2.sh -O /bin/sshmonitor
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/sshmonitor2.sh -O /bin/sshmonitor
 	chmod +x /bin/sshmonitor
 	if [ ! -f "/etc/init.d/squid3" ]
 	then
@@ -122,34 +129,35 @@ then
 fi
 if [ -d "/etc/squid/" ]
 then
-	wget http://raw.githubusercontent.com/Panuwatbank/wy/master/squid.txt -O /tmp/sqd1
-	echo "acl SSH dst $ipdovps-$ipdovps/255.255.255.255" > /tmp/sqd2
-	cat /tmp/sqd2 /tmp/sqd1 > /etc/squid/squid.conf
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/เว็บ/SquiD1.txt -O /tmp/sqd1
+	echo "acl url4 dstdomain -i $ipdovps" > /tmp/sqd2
+	wget https://raw.githubusercontent.com/Panuwatbank/vpn/master/เว็บ/SquiD2.txt -O /tmp/sqd3
+	cat /tmp/sqd1 /tmp/sqd2 /tmp/sqd3 > /etc/squid/squid.conf
 	grep -v "^Port 143" /etc/ssh/sshd_config > /tmp/ssh && mv /tmp/ssh /etc/ssh/sshd_config
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
 	echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
-	wget http://phreaker56.xyz/vpsmanager/scripts/2/addhost.sh -O /bin/addhost
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/2/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
-	wget http://phreaker56.xyz/vpsmanager/scripts/alterarsenha.sh -O /bin/alterarsenha
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/alterarsenha.sh -O /bin/alterarsenha
 	chmod +x /bin/alterarsenha
-	wget http://phreaker56.xyz/vpsmanager/scripts/criarusuario2.sh -O /bin/criarusuario
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/criarusuario2.sh -O /bin/criarusuario
 	chmod +x /bin/criarusuario
-	wget http://phreaker56.xyz/vpsmanager/scripts/2/delhost.sh -O /bin/delhost
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/2/delhost.sh -O /bin/delhost
 	chmod +x /bin/delhost
-	wget http://phreaker56.xyz/vpsmanager/scripts/expcleaner2.sh -O /bin/expcleaner
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
-	wget http://phreaker56.xyz/vpsmanager/scripts/mudardata.sh -O /bin/mudardata
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/mudardata.sh -O /bin/mudardata
 	chmod +x /bin/mudardata
-	wget http://phreaker56.xyz/vpsmanager/scripts/remover.sh -O /bin/remover
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/remover.sh -O /bin/remover
 	chmod +x /bin/remover
-	wget http://phreaker56.xyz/vpsmanager/scripts/sshlimiter2.sh -O /bin/sshlimiter
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/sshlimiter2.sh -O /bin/sshlimiter
 	chmod +x /bin/sshlimiter
-	wget http://phreaker56.xyz/vpsmanager/scripts/alterarlimite.sh -O /bin/alterarlimite
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/alterarlimite.sh -O /bin/alterarlimite
 	chmod +x /bin/alterarlimite
-	wget http://phreaker56.xyz/vpsmanager/scripts/ajuda.sh -O /bin/ajuda
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/ajuda.sh -O /bin/ajuda
 	chmod +x /bin/ajuda
-	wget http://phreaker56.xyz/vpsmanager/scripts/sshmonitor2.sh -O /bin/sshmonitor
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/sshmonitor2.sh -O /bin/sshmonitor
 	chmod +x /bin/sshmonitor
 	if [ ! -f "/etc/init.d/squid" ]
 	then
@@ -165,7 +173,7 @@ then
 	fi
 fi
 echo ""
-tput setaf 7 ; tput setab 4 ; tput bold ; echo "Proxy Squid Instalado e rodando nas portas: 80, 3128, 8080 e 8000" ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; echo "Proxy Squid Instalado e rodando nas portas: 81, 3128, 8080 e 8000" ; tput sgr0
 tput setaf 7 ; tput setab 4 ; tput bold ; echo "OpenSSH rodando nas portas 22 e 143" ; tput sgr0
 tput setaf 7 ; tput setab 4 ; tput bold ; echo "Scripts para gerenciamento de usuário instalados" ; tput sgr0
 tput setaf 7 ; tput setab 4 ; tput bold ; echo "Leia a documentação para evitar dúvidas e problemas!" ; tput sgr0
