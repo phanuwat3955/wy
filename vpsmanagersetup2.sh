@@ -134,13 +134,13 @@ then
 	echo "Port 143" >> /etc/ssh/sshd_config
 	grep -v "^PasswordAuthentication yes" /etc/ssh/sshd_config > /tmp/passlogin && mv /tmp/passlogin /etc/ssh/sshd_config
 	echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
-	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/2/addhost.sh -O /bin/addhost
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/addhost.sh -O /bin/addhost
 	chmod +x /bin/addhost
 	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/alterarsenha.sh -O /bin/alterarsenha
 	chmod +x /bin/alterarsenha
 	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/criarusuario2.sh -O /bin/criarusuario
 	chmod +x /bin/criarusuario
-	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/2/delhost.sh -O /bin/delhost
+	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/delhost.sh -O /bin/delhost
 	chmod +x /bin/delhost
 	wget https://raw.githubusercontent.com/phanuwat3955/wgt-bank/master/expcleaner2.sh -O /bin/expcleaner
 	chmod +x /bin/expcleaner
